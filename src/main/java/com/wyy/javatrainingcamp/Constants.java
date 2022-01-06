@@ -1,7 +1,7 @@
 package com.wyy.javatrainingcamp;
 
 /**
- * @Description: TODO
+ * @Description: 常量
  * @Author: wangyuanyuan32
  * @Date: 2022/1/6 21:05
  */
