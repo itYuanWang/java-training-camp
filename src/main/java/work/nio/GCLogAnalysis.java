@@ -1,4 +1,4 @@
-package com.wyy.javatrainingcamp.nio;
+package work.nio;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;

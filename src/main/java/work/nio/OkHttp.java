@@ -1,4 +1,4 @@
-package com.wyy.javatrainingcamp.nio;
+package work.nio;
 
 import okhttp3.*;
 import org.springframework.util.CollectionUtils;

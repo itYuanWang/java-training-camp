@@ -1,4 +1,4 @@
-package com.wyy.javatrainingcamp;
+package work;
 
 /**
  * @Description: 常量

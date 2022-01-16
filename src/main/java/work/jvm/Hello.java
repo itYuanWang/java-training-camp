@@ -1,4 +1,4 @@
-package com.wyy.javatrainingcamp.jvm;
+package work.jvm;
 /**
  * 题目：
  * 自己写一个简单的 Hello.java，

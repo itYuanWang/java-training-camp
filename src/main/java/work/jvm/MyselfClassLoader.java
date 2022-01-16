@@ -1,6 +1,6 @@
-package com.wyy.javatrainingcamp.jvm;
+package work.jvm;
 
-import com.wyy.javatrainingcamp.Constants;
+import work.Constants;
 
 import java.lang.reflect.Method;
 import java.nio.file.Files;
