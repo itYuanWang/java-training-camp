@@ -10,7 +10,8 @@ import java.util.Objects;
 public class OkHttp {
 
     public static void main(String[] args) {
-        httpGet("https://www.baidu.com/");
+        String httpGet = httpGet("https://www.baidu.com/");
+        System.out.println(httpGet);
     }
 
     /**
